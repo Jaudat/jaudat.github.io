@@ -21,4 +21,4 @@ This blog will mostly contain my summary notes as I try to simplify and explain 
 
 ### Contact me
 
-[sjh_jaudat@hotmail.com](mailto:sjh_jaudat@hotmail.com)
+[email@domain.com](mailto:email@domain.com)
